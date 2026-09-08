@@ -6,4 +6,5 @@ This GitHub organization contains repositories related to our heterogeneous dron
 
 * [Github Organization](https://github.com/erau-capstone/)
 * [Jira Project Board](https://erau-capstone.atlassian.net/jira/for-you)
+* [Scrumwise Board](https://www.scrumwise.com/scrum/#/overview/project/heterogeneous-swarm/)
 * [Google Drive Folder](https://drive.google.com/drive/folders/1kYzCoeYFi5KLPazJ4mxHRlT2iTl_TwQX?usp=sharing)
